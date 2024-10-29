@@ -128,17 +128,9 @@ Had fun with the red cube, though, it did fall through their hands. Had a lot of
 3. It depends on the type of application a lot. If they are expecting immersion going in, they are fine with it being more difficult. Once it starts breaking physically then it becomes a lot more frustrating than immersive. It has to be consistent. For some applications where the focus is on the gameplay, it should be as easy to use as possible, the interaction should get out of the way and let the world itself be the immersive part.
 
 
-### User 7
+### User 7 - Teacher
 
-**Pre-Test Questions**
-1. 
-2. 
-3. 
-
-**Post-Test Questions**
-1. 
-2. 
-3. 
+Different interactions make sense for different scenarios. In 3D modeling it makes sense to use the white cube's interaction, liked how you could kinda pull it slowly towards themselves. They thought it would be cool to be able to scale the cube in size while both hands are interacting with at once. The green cube makes sense for something like Job Simulator, where thre is a lot of direct interaction with close by objects. The blue one is good for games that are more fast paced, for example, if there is a gun on the ground and the user needs to pick it up, having it snap to their hand makes sense. The red one is fun, and the juggling aspect is very enjoyable, but it is not as practical, would work really well in a cat simulator, where knocking things off the table and playing with the physics of things is the main goal.
 
 ### User 8
 
@@ -153,6 +145,18 @@ Had fun with the red cube, though, it did fall through their hands. Had a lot of
 3. 
 
 ### User 9
+
+**Pre-Test Questions**
+1. 
+2. 
+3. 
+
+**Post-Test Questions**
+1. 
+2. 
+3. 
+
+### User 10
 
 **Pre-Test Questions**
 1. 

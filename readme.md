@@ -12,7 +12,7 @@
 4. Using either the users hand or a controller to pick up and manipulate the cube from a distance. The cube will maintain its original distance and angle to the users hand, allowing them to manpulate it more openly instead of limiting their range of motion to that of their arms.
 
 ## Storyboards
-**This diagram is currently slightly out of date with my final interactions, so I will update it soon to better reflect the nature of my final interactions.
+**This diagram is currently slightly out of date with my final interactions, so I will update it soon to better reflect the nature of my final interactions.**
 ![Example Diagram](IMG_0086.PNG)
 
 ## Project Video Demo

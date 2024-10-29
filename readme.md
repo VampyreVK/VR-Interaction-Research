@@ -8,13 +8,13 @@
 
 *I will implement 4 ways to interact with and pick up a cube:*
 
-1. Picking it up using direct hand interaction utilizing raw physics, allowing the user to cup the cube with their hands and balance it, or pick it up by going from under it. This interaction has no methods of friction, so it is designed to show the baseline for hand interaction without assistance in VR.
+1. Red - Picking it up using direct hand interaction utilizing raw physics, allowing the user to cup the cube with their hands and balance it, or pick it up by going from under it. This interaction has no methods of friction, so it is designed to show the baseline for hand interaction without assistance in VR.
 
-2. Using hand snapping to allow the user to grab the cube by having the users fingers snap to the edges of the cube, allowing them to easily grip the cube with one hand.
+2. Green - Using hand snapping to allow the user to grab the cube by having the users fingers snap to the edges of the cube, allowing them to easily grip the cube with one hand.
 
-3. Pulling the cube to the users hand by closing the hand while nearby the cube, the cube then flys to the users hand and can then be held as long as the user keeps their hand closed.
+3. Blue - Pulling the cube to the users hand by closing the hand while nearby the cube, the cube then flys to the users hand and can then be held as long as the user keeps their hand closed.
 
-4. Using either the users hand or a controller to pick up and manipulate the cube from a distance. The cube will maintain its original distance and angle relative to the users initial hand position and rotation, allowing them to manpulate the cube more freely instead of limiting their range of motion to that of their arms.
+4. White - Using either the users hand or a controller to pick up and manipulate the cube from a distance. The cube will maintain its original distance and angle relative to the users initial hand position and rotation, allowing them to manpulate the cube more freely instead of limiting their range of motion to that of their arms.
 
 ## Storyboards
 
@@ -29,9 +29,9 @@
 
 ## Pre-Test Questions
 
-1. Have you previously used Hand Tracking in VR? What was your experience with that in the past?
+1. Have you previously used hand tracking in VR? What was your experience with that in the past?
 
-2. Do you prefer physical or hand-based interaction or controller-based interaction in VR?
+2. Do you prefer physical / hand-based interaction or controller-based interaction in VR?
 
 3. Do you prefer interactions in VR to be more immersive and true to life, or more intuitive?
 
@@ -45,6 +45,8 @@
 
 ### User 1
 
+Had trouble with getting the interactions at first, could not tell the difference between the hand pulling(Blue) and distance manipulation(white) methods of interacting with the cubes at first.
+
 **Pre-Test Questions**
 1. No hand tracking experience
 2. In vr, they would prefer controllers.
@@ -56,30 +58,77 @@
 3. Ease of use is prefered, since they don't game a lot, more intuitive gives a better experience for them.
 
 ### User 2
+Had a little trouble at first with the grab gesture, but figured it out after some tinkering.
+
 
 **Pre-Test Questions**
-1. 
-2. 
-3. 
+1. Yes
+2. Hand based
+3. Intuitive makes more sense
 
 **Post-Test Questions**
-1. 
-2. 
-3. 
+1. Since VR is inheretly non-physical, there is going to be some learning in all of them. The move at a distance(white) made the most sense.
+2. The red block felt the best because it behaved like real physics. The lack of haptics made it tough. 
+3. Depends a lot on application, if precision is needed(drawing or modeling), assistance would be helpful. For a more immersive experience, more natural physicality is better.
 
 ### User 3
+Had a hard time figuring out the gestures, they often tried to reach out to something with almost a squid like gesture rather than a closed fist, and that resulted in the hand tracking not picking up their intentions properly.
+
 
 **Pre-Test Questions**
-1. 
-2. 
-3. 
+1. No previous experience
+2. Using a controller as that is what they are familliar with
+3. Intuitive is more important
 
 **Post-Test Questions**
-1. 
-2. 
-3. 
+1. The green felt the most intuitive to them
+2. The red one where he could scoop it felt the most interactive and solid.
+3. Ease of use is the best, the most immersive option doesn't always make for the best gameplay experience. 
 
 ### User 4
+Picked things up very quickly, immedeatly was able to interact with most of the objects. Juggled the cube around in their hands relatively effortlessly.
+
+
+**Pre-Test Questions**
+1. No VR use before class, and no hand tracking experience
+2. Hand based would be prefered. Controllers aren't bad, but there is a worry about dropping things
+3. More intuitive is better, since being too real to live doesn't always translate to a great gameplay experience
+
+**Post-Test Questions**
+1. The blue one felt really easy to work with, the snapping was nice.
+2. The green felt the most immersive, it struck a good balance of helping the user but not giving too much help.
+3. It depends on what the user is trying to do, ease / immersion is the most important for them.
+
+### User 5
+Had a lot of fun during the interaction. 
+
+
+**Pre-Test Questions**
+1. No hand tracking experience
+2. Used to controllers, but it wouldn't be too much of a change to use hands
+3. Intuitive matters more than immersion, a good balance is required. Intuitive first then true-to-life later.
+
+**Post-Test Questions**
+1. The most intuitive was probably the green one where the hand automatically snaps around the object
+2. The blue one felt the most engaging, they thought it was really cool.
+3. It depends on what they are trying to do, even the type of game matters. The different aspects can be fun, a puzzle game with weird ways to pick things up would be very engaging.
+
+### User 6
+Had fun with the red cube, though, it did fall through their hands. Had a lot of trouble figuring out the correct hand closing gesture to use (Maybe an in-app tutorial on how to interact with objects would be helpful for new users). Because of the sensitivity of the at-a-distance interaction, they immedeatly threw the white cube into the air and off the map.
+
+
+**Pre-Test Questions**
+1. A little bit of hand tracking experience, no personal VR headset, but they have tried it - Quest hand tracking demo on Quest 1
+2. It depends on the interaction, physical is cool and works well, and feels intuitive, but controllers offer a lot more control. Superhot gun makes sense with controller, natural / playful interactions make sense to have hand tracking.
+3. They would like to think they prefer true-to-life, but in reality they need a system that works first and foremost. Intuitive but real-to-life can be intuitive too if implemented well.
+
+**Post-Test Questions**
+1. Green felt the most intuitive, the red was fun, but it also fell through their hands, too finicky to be usable. The snapping on the green was great, the blue one would feel great if it worked more consistently.
+2. The red felt the most immersive because the physics made it feel a lot more real. It was cool cupping it and have it feel physical isntead of magnatized to their hand.
+3. It depends on the type of application a lot. If they are expecting immersion going in, they are fine with it being more difficult. Once it starts breaking physically then it becomes a lot more frustrating than immersive. It has to be consistent. For some applications where the focus is on the gameplay, it should be as easy to use as possible, the interaction should get out of the way and let the world itself be the immersive part.
+
+
+### User 7
 
 **Pre-Test Questions**
 1. 
@@ -91,7 +140,19 @@
 2. 
 3. 
 
-### User 5
+### User 8
+
+**Pre-Test Questions**
+1. 
+2. 
+3. 
+
+**Post-Test Questions**
+1. 
+2. 
+3. 
+
+### User 9
 
 **Pre-Test Questions**
 1. 
